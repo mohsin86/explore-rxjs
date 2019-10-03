@@ -1,12 +1,12 @@
 {
-  "name": "rxjs_boiler",
+  "name": "explore_rxjs",
   "version": "1.0.0",
-  "description": "Boilerplate for building RxJS applications",
+  "description": "explore for building RxJS applications",
   "main": "app.js",
   "scripts": {
     "start": "live-server --port=8000"
   },
-  "author": "Brad Traversy",
+  "author": "Mohsin",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.14.0",
